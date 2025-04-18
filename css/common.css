@@ -82,3 +82,25 @@ flex-wrap: wrap;
 gap: 48px 24px;
 
 }
+
+/* Task-3 */
+
+.input-title {
+  font: 600 24px / 1.33333 "Montserrat", sans-serif;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+.input-form {
+border: 1px solid #808080;
+border-radius: 4px;
+width: 360px;
+height: 40px;
+padding: 8px 16px 8px 16px;
+}
+
+.input-form::placeholder {
+  font: 400 16px / 1.5 "Montserrat", sans-serif;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
