@@ -13,6 +13,8 @@ body {
   line-height: 1.5;
 }
 
+/* Task -1 */
+
 ul{
   list-style: none;
   padding: 0;
@@ -62,4 +64,21 @@ gap: 8px;
   width: 360px;
   height: 40px;
   padding: 8px 16px 8px 16px;
+}
+
+
+/* Task-2 */
+
+.item-img {
+  width: 360px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.gallery {
+width: 1128px;
+display: flex;
+flex-wrap: wrap;
+gap: 48px 24px;
+
 }
