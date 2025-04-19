@@ -138,3 +138,26 @@ button {
   font: 500 16px / 1.5 "Montserrat", sans-serif;
   letter-spacing: 0.04em;
 }
+/*  Task-5 */
+
+.change-color {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 148px;
+  height: 40px;
+  background: #4e75ff;
+  font: 500 16px / 1.5 "Montserrat", sans-serif;
+  letter-spacing: 0.04em;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+ 
+}
+
+.widget-text {
+  font: 400 16px / 1.5 "Montserrat", sans-serif;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  text-align: center;
+  margin-bottom: 16px;
+}
